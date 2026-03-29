@@ -170,5 +170,3 @@ http://127.0.0.1:5173
 - Ensure you keep `GROQ_API_KEY` secret and do not commit it into version control.
 
 ---
-
-Generated README content for Arogya Wellness Assistant.
